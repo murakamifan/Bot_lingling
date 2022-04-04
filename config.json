@@ -1,0 +1,21 @@
+{
+    "image_path": "logo.png",
+    "image_start_coords": [1883, 1088],
+    "legacy_transparency": true,
+    "thread_delay": 0,
+    "unverified_place_frequency": false,
+    "compact_logging": true,
+    "using_tor": false,
+    "tor_ip": "127.0.0.1",
+    "tor_port": 1881,
+    "tor_control_port": 9051,
+    "tor_password": "Passwort",
+    "tor_delay": 5,
+    "use_builtin_tor": false,
+    "workers": {
+        "account_name": {
+            "password": "example_password",
+            "start_coords": [0, 0]
+        }
+    }
+}

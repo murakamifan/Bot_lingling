@@ -18,3 +18,6 @@ On Mac, open Terminal and enter
 chmod +x start.sh startverbose.sh
 ./start.sh or ./startverbose.sh
 ```
+
+To change the image, replace the 'logo.png' file.
+To change the location of the image, edit the 'config.json' file ("image_start_coords").
